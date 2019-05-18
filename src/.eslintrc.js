@@ -10,7 +10,7 @@ module.exports = {
     },
     "parserOptions": {
         "ecmaVersion": 2018,
-        "sourceType": "module"
+        "sourceType": "script"
     },
     "rules": {
         "semi": [2, "always"]
